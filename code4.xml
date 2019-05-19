@@ -1,0 +1,29 @@
+<Module>
+<ModulePrefs title="Custom Gadget"/>
+<Content type="html">
+<![CDATA[[
+
+
+
+
+[<html> 
+
+<head> 
+<title> Aliacy </title>
+</head>
+
+<body bgcolor="white" text="black">
+
+<h1> Pro Bono Law </h1> 
+
+</body>
+
+</html>]
+
+
+
+
+]]>
+</Content>
+</Module>
+
